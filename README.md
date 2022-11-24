@@ -1,5 +1,3 @@
-# AIB_Project4
-[AI Bootcamp Section4 / Project] <br/>
 Text Image로부터 문자를 읽고, 그와 유사한 Text Image 출력
 
 ## 진행 내용 
